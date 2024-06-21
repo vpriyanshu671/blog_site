@@ -1,0 +1,6 @@
+myenv/
+mysite/db.sqlite3
+*.pyc
+__pycache__/
+.env
+*.log
